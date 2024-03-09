@@ -1,0 +1,34 @@
+.title {
+    color: blue;
+    background-color: beige;
+    text-align: center;
+    font-size: 100px;
+    font-style: italic;
+    
+#center {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+}
+    
+}
+.list {
+    text-align: center;
+    font-size: 40px;
+    color: beige;
+
+}
+* {
+    background-color: beige;
+}
+.pic {
+    width: 300px;
+    height: auto;
+}
+.mainheader {
+    text-align: center;
+    outline: auto;
+    font-size: 40px;
+
+}
